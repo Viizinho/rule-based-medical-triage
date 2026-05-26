@@ -1,8 +1,6 @@
 # Mini-Projeto 1 — SBC de Triagem Médica Simples
 
-**Disciplina:** Inteligência Artificial — Conhecimento e Regras  
-**Entrega:** 27/05/2026, 23h59 (link do repositório GitHub no Classroom)  
-**Apresentação:** Aula de 29/05/2026
+**Disciplina:** Sistemas Baseados em Conhecimento
 
 ---
 
@@ -93,16 +91,6 @@ jupyter notebook triagem_medica_sbc.ipynb
 
 ---
 
-## Estrutura do Repositório
-
-```
-mini_projeto_1/
-├── README.md                  # Este arquivo
-└── triagem_medica_sbc.ipynb   # Notebook Colab com todo o sistema
-```
-
----
-
 ## Equipe
 
-*(até 4 alunos — preencher aqui)*
+*João Vitor Cardoso Beltrão*
